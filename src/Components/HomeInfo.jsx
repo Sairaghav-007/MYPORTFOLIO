@@ -28,7 +28,7 @@ const renderContent = {
         <InfoBox text="View my amazing projects " link="/projects" btnText="Visit my Portfolio"/>
     ),
     4 : (
-        <InfoBox text="Student at Sri SaiRam Engineering College" link="/contact" btnText="Let's Talk"/>
+        <InfoBox text="Student at Sri SaiRam Engineering College" />
     )
 }
 

@@ -46,7 +46,6 @@ const Projects = () => {
 
       <div  className='border-slate-200'/>
 
-      <CTA/>
     </section>
   )
 }
